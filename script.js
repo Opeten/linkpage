@@ -1,13 +1,8 @@
 const rawList = `
-    https://api.mod.io/mods/file/3018592
-https://api.mod.io/mods/file/3036257
-https://api.mod.io/mods/file/3036687
-https://api.mod.io/mods/file/3036581
-https://api.mod.io/mods/file/3035086
-https://api.mod.io/mods/file/2994287
-https://api.mod.io/mods/file/3027764
-https://api.mod.io/mods/file/3024746
-https://api.mod.io/mods/file/2978738
+    https://api.mod.io/mods/file/3064953
+    https://api.mod.io/mods/file/3060884
+    https://api.mod.io/mods/file/3033580
+    https://api.mod.io/mods/file/3010886
 `;
 
 
